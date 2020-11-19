@@ -1,6 +1,6 @@
 settings:
   remove_quotes_in_frontmatter:
-   = "true"
+   = "false"
 pretranslate:
   paths:
   - source: .
