@@ -82,7 +82,7 @@ And of course Dillinger itself is open source with a [public repository][dill]
 ### Installation
 ![Ilos](https://lh3.googleusercontent.com/proxy/DDV8a7sLIWurhJtW8Ego9bq-JlwpfFFoR0tkLJQKKYXEXoWHB6ZUP5jGKD2VcYt3z1QVsgcn6L3GoU1ns8m9fvi3U51GzddA70ZUMHgzHvjl4-i7YOJY9cShBPrfjUhMQhxaJ97WFBp612XmjMXVGypfGkiBarN4PWxhiHkiYYNW7HGbtTpOcyt9GQ4Q23C2noxLTWFXZMcQZhRpQA_qzu2n6_H6CPViBnhSHpEl4JZAPaGCSJqgZg)
 
-Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
+Dillinger requires [Node.js](https://www.onliner.by/) v4+ to run.
 
 Install the dependencies and devDependencies and start the server.
 
